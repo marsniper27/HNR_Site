@@ -94,9 +94,7 @@
 
 <script>
 import * as THREE from 'three';
-import axios from "axios"
 import getWeb3 from '../views/web3.js';
-import Web3 from "web3"
 export default {
     data() {
         return {

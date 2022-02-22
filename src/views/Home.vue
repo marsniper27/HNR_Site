@@ -66,9 +66,6 @@
 <script>
 
 import getWeb3 from './web3.js';
-import Web3 from 'web3';
-import {ethers} from "ethers";
-import { commify } from '@ethersproject/units';
 import * as Functions from "../components/functions.js";
 
 export default {
