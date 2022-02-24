@@ -54,7 +54,10 @@
                         <button @click="createNode()">Create Musha Node</button>
                     </div>
                 </div>
-            </div>           
+            </div>   
+            <div class="card" style="min-width:50%">
+                <h2>Donations 0xcE3Ad9d144eCd83C3651D7Ee20890cE4ED70e6dD</h2>
+            </div>
         </div>
     </div>
     <div v-if="messages" class="messages">
